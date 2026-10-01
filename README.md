@@ -1,5 +1,5 @@
 #─── ⋆⋅ ♰ ⋅⋆ ───
-# ⋆ Adam | 16 | Developer ⋆
+# ⋆ Adam | 17 | Developer ⋆
 
 **Programming languages I have experience with**
 - ![HTML](*)
