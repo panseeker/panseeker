@@ -39,6 +39,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 Most used languages
+
+<img src="./languages.svg" alt="Most used languages across all my repositories" width="495" />
+
 ### 📫 Contact
 
 ![Discord](https://img.shields.io/badge/Discord-pan__seeker__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
