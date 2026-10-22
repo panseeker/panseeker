@@ -16,6 +16,7 @@
 - 🖥️ I build **desktop applications** in C# / .NET (WPF) and **web apps** in JavaScript & TypeScript
 - 🗄️ I work with **databases and cloud backends**: PostgreSQL, Supabase, serverless functions
 - ⚙️ I like automating things: scripts, automated testing and deployment
+- 🚀 Currently working on a **cross-platform finance app**: C# desktop client, TypeScript & JavaScript web app and a PostgreSQL cloud backend
 - 🌱 Currently leveling up in **TypeScript** and **SQL**
 
 ### 💬 Programming languages
@@ -52,5 +53,7 @@
 <div align="center">
 
 ─── ⋆⋅ ♰ ⋅⋆ ───
+
+![Profile views](https://komarev.com/ghpvc/?username=panseeker&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)
 
 </div>
