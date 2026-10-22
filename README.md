@@ -15,9 +15,4 @@
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## ⋆ Current project ⋆
-
-**[Finance Tracker PRO](https://finance-tracker-paulik.netlify.app/)** – personal finance app for Windows and mobile web: budgets, savings goals, recurring payments, receipt scanning and shared budgets.
-[Download for Windows](https://finance-tracker-paulik.netlify.app/download)
-
 ─── ⋆⋅ ♰ ⋅⋆ ───
