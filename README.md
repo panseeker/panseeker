@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About me
 
-- 🇨🇿 17-year-old developer from the Czech Republic
+- 📍 17-year-old developer from the Czech Republic
 - 🖥️ I build **desktop applications** in C# / .NET (WPF) and **web apps** in JavaScript & TypeScript
 - 🗄️ I work with **databases and cloud backends**: PostgreSQL, Supabase, serverless functions
 - ⚙️ I like automating things: scripts, automated testing and deployment
@@ -38,13 +38,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=panseeker&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=panseeker&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
 
 ### 📫 Contact
 
