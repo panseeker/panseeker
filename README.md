@@ -3,7 +3,7 @@
 # Hi, I'm Adam 👋
 
 <a href="https://github.com/panseeker">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=17-year-old+developer+from+Czechia;Desktop+apps+in+C%23+%2F+.NET;Web+apps+in+JavaScript+%26+TypeScript;Databases+%26+cloud+backends" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=17-year-old+developer+from+Czechia;Desktop+apps+in+C%23+%2F+.NET;Web+apps+in+JavaScript+%26+TypeScript;Databases+%26+cloud+backends;Making+my+own+game+in+Godot+%2B+C%23" alt="Typing intro" />
 </a>
 
 </div>
@@ -16,8 +16,28 @@
 - 🖥️ I build **desktop applications** in C# / .NET (WPF) and **web apps** in JavaScript & TypeScript
 - 🗄️ I work with **databases and cloud backends**: PostgreSQL, Supabase, serverless functions
 - ⚙️ I like automating things: scripts, automated testing and deployment
-- 🚀 Currently working on a **cross-platform finance app**: C# desktop client, TypeScript & JavaScript web app and a PostgreSQL cloud backend
+- 🎮 Currently making my own **game – NightShift Delivery** (Godot + C#)
+- 🚀 Also working on a **cross-platform finance app**: C# desktop client, TypeScript & JavaScript web app and a PostgreSQL cloud backend
 - 🌱 Currently leveling up in **TypeScript** and **SQL**
+
+### 🎮 Game in development: NightShift Delivery
+
+> 🚧 **Work in progress** – I'm making my own game.
+
+**NightShift Delivery** is a **co-op horror comedy for 1–4 players**. You're a night courier delivering packages
+through a dark, procedurally generated forest in a beat-up pickup truck – while *something* in the trees is hunting you.
+
+- 🚚 Load packages, drive the forest road, deliver to remote houses and hit the quota before you get fired
+- 🔧 Physical car: petrol / LPG, engine damage, overheating, wheels flying off – and you fix it all by hand
+- 🛠️ Upgrade the truck: off-road tyres, turbo, lift kit, roof light bar
+- 👁️ The entity reacts to noise and darkness – your headlights and flashlight are all you've got
+- 🌧️ Dynamic weather: fog, rain, lightning
+- 🌐 Online co-op (host / join), English + Czech
+
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Jolt Physics](https://img.shields.io/badge/Jolt_Physics-333333?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in_development-orange?style=for-the-badge)
 
 ### 💬 Programming languages
 
@@ -35,6 +55,7 @@
 ### 🛠️ Tools & technologies
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
